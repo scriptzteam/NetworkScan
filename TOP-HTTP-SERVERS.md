@@ -1,7 +1,7 @@
 Stats (updated time to time ^^)
 ----
 
-Date|Records in database
+Server|Records in database
 |---|--:|
 AkamaiGHost|75927
 nginx|61997
